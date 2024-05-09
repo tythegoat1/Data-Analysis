@@ -1,0 +1,1 @@
+Used exploratory data analysis (EDA) to act as a member of an analytics team that provides insights to an investing firm. To help them decide which companies to invest in next, the firm wants insights into unicorn companies–companies that are valued at over one 
